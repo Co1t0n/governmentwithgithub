@@ -17,3 +17,6 @@ https://design-system.service.gov.uk/community/propose-a-content-change-using-gi
 <br>
 2. ** dissallowed symbols **
 (propose to add)
+3. Churches from the wrong denomination in denomination specific cities must be removed
+4. Churches deep in the mininglands should get protection
+5. Zoomer should go to server.properties and turn enforce-secure-profile to false. This will fix a issue where some of us cannot chat due to public key issues.
