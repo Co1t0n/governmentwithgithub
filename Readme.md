@@ -15,5 +15,5 @@ https://design-system.service.gov.uk/community/propose-a-content-change-using-gi
 - people who are suspected of crimes (not proven)
 - heretics get a trial
 <br>
-2. ** dissallowed symbols**
+2. ** dissallowed symbols **
 (propose to add)
