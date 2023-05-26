@@ -10,7 +10,7 @@ https://design-system.service.gov.uk/community/propose-a-content-change-using-gi
 - cursing
 - treason
 <br>
- ### these rules are a KOS (Kill on sight. But there are situations where KOS is not allowed
+2. ### these rules are a KOS (Kill on sight. But there are situations where KOS is not allowed
 <br>
 - people who are suspected of crimes (not proven)
 - heretics get a trial
