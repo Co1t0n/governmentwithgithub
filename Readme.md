@@ -10,7 +10,9 @@ https://design-system.service.gov.uk/community/propose-a-content-change-using-gi
 - sexual activity
 - cursing
 - treason
-these rules are a KOS (Kill on sight. But there are situations where KOS is not allowed
+<br>
+**these rules are a KOS (Kill on sight. But there are situations where KOS is not allowed**
+<br>
 - people who are suspected of crimes (not proven)
 - heretics get a trial
 2. dissallowed symbols
