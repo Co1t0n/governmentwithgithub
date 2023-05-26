@@ -17,3 +17,5 @@ https://design-system.service.gov.uk/community/propose-a-content-change-using-gi
 <br>
 2. ** dissallowed symbols **
 (propose to add)
+3. Churches from the wrong denomination must be removed if in a denomination specific city.
+4. A system should be created to protect churches in the miningland that are built farer away. Some people want larger plots but dont want griefers
